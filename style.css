@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+nav ul {
+	display: flex;
+}
+
+nav li {
+	list-style: none;
+}
